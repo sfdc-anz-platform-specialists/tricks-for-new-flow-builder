@@ -1,0 +1,677 @@
+[
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1582490308658,
+            "changeTime": 1582490308658,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1582490308658,
+            "changeTime": 1582490308658,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 448,
+            "modifiedTime": 1582514631052,
+            "changeTime": 1582514631052,
+            "contentHash": "328886371de3b299e34dce7958a81bc57175da97",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/applications",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1582490308659,
+            "changeTime": 1582490308659,
+            "contentHash": "6899520aeed67592deae3fb686de581033722e48",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/applications/Training.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/applications/Training.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 776,
+            "modifiedTime": 1582490308659,
+            "changeTime": 1582490308659,
+            "contentHash": "d586379f37eb8ccd4e973a61470eb2609020cae9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/contentassets",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1582490308660,
+            "changeTime": 1582490308660,
+            "contentHash": "6352767137f747b5df454aa6e817320b46876005",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/contentassets/training.asset",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/contentassets/training.asset",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 26060,
+            "modifiedTime": 1582490308660,
+            "changeTime": 1582490308660,
+            "contentHash": "071b1a16d2e2be927ff3681ba7073aff97694c12",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/contentassets/training.asset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/contentassets/training.asset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 529,
+            "modifiedTime": 1582490308661,
+            "changeTime": 1582490308661,
+            "contentHash": "7cf50eb4279718619a496db3f7fd79b7e1b94860",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/externalServiceRegistrations",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/externalServiceRegistrations",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1582514631043,
+            "changeTime": 1582514631043,
+            "contentHash": "2a3a6fda4b08d700869bb3a4532eb8a929f58b64",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/externalServiceRegistrations/translate.externalServiceRegistration-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/externalServiceRegistrations/translate.externalServiceRegistration-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2600,
+            "modifiedTime": 1582514631043,
+            "changeTime": 1582514631043,
+            "contentHash": "302132e468dfac6b6c5b6554b078f1540cc5f4c9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/flexipages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1582490308662,
+            "changeTime": 1582490308662,
+            "contentHash": "e515315a9c6cc8be289503d37ff367c01e172917",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/flexipages/Course_Record_Page.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/flexipages/Course_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5816,
+            "modifiedTime": 1582514631049,
+            "changeTime": 1582514631049,
+            "contentHash": "1ce23b5b1c7bc3853d23cec7ca16d8421de80239",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/flexipages/Training_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/flexipages/Training_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 503,
+            "modifiedTime": 1582490308662,
+            "changeTime": 1582490308662,
+            "contentHash": "c91f5909b25edade52a51bd268dd37b121fefbc4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/flexipages/Translation_Record_Page.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/flexipages/Translation_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5637,
+            "modifiedTime": 1582490308662,
+            "changeTime": 1582490308662,
+            "contentHash": "bc4966d601f34ce0ef51b805c90a00aa52ad4f1d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/flows",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/flows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1582514631053,
+            "changeTime": 1582514631053,
+            "contentHash": "6002f6e6965142c90f5a2bea6e383d5a53021834",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/flows/translateFlow.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/flows/translateFlow.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4787,
+            "modifiedTime": 1582514631053,
+            "changeTime": 1582514631053,
+            "contentHash": "9e7dd9723efa405fd9c45a17edee4bddbe9768b7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/layouts",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1582490308663,
+            "changeTime": 1582490308663,
+            "contentHash": "dd2001da0350f87bee01c3617d215d7e80f6bf25",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/layouts/Course__c-Course Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/layouts/Course__c-Course Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3828,
+            "modifiedTime": 1582490308663,
+            "changeTime": 1582490308663,
+            "contentHash": "d675108d8e2c00c5b078c27c275177d14a42bae9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/layouts/Translation__c-Translation Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/layouts/Translation__c-Translation Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3222,
+            "modifiedTime": 1582490308664,
+            "changeTime": 1582490308664,
+            "contentHash": "52d3d48a8c58d272607b3e1a5274b22284a20552",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1582490308665,
+            "changeTime": 1582490308665,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/namedCredentials",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/namedCredentials",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1582514631041,
+            "changeTime": 1582514631041,
+            "contentHash": "420b2656ddebb253675497a937b9e640bd99bb03",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/namedCredentials/googletranslate.namedCredential-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/namedCredentials/googletranslate.namedCredential-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 503,
+            "modifiedTime": 1582514631041,
+            "changeTime": 1582514631041,
+            "contentHash": "f237209bf5969a09cc5b489aeb07c18bf4300148",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1582490308669,
+            "changeTime": 1582490308669,
+            "contentHash": "a36952707bb9d5f82dd2a51a23db2a7e1b69f21f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Course__c",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Course__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1582490308668,
+            "changeTime": 1582490308668,
+            "contentHash": "727c2adf469459ec07a9de126eed42794dfc4da7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Course__c/Course__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Course__c/Course__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2434,
+            "modifiedTime": 1582490308666,
+            "changeTime": 1582490308666,
+            "contentHash": "52ed4cd2d4ed8e00fc141792a2ee6654ddfe714a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Course__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Course__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1582490308668,
+            "changeTime": 1582490308668,
+            "contentHash": "240244d020afd00a491eee64c7b6afedd09781e3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Course__c/fields/Abbreviation__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Course__c/fields/Abbreviation__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 456,
+            "modifiedTime": 1582490308666,
+            "changeTime": 1582490308666,
+            "contentHash": "d4b0faac26e9bbe935f49e6b3ff79ef1dabb70d1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Course__c/fields/Description__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Course__c/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 442,
+            "modifiedTime": 1582490308667,
+            "changeTime": 1582490308667,
+            "contentHash": "f86a747c782a98d12d174bd9d515934e75c53e93",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Course__c/fields/Format__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Course__c/fields/Format__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1339,
+            "modifiedTime": 1582490308668,
+            "changeTime": 1582490308668,
+            "contentHash": "139318c01b8cafe17515aeda6e14d3548f2f7c89",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Course__c/fields/Maximum_Enrollment__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Course__c/fields/Maximum_Enrollment__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 496,
+            "modifiedTime": 1582490308668,
+            "changeTime": 1582490308668,
+            "contentHash": "cccc8b7be3c819b6875b098b9b451f9917875199",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Course__c/listViews",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Course__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1582490308668,
+            "changeTime": 1582490308668,
+            "contentHash": "4fefdd8299b63baf57471905185ed77506004d2a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Course__c/listViews/All_Courses.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Course__c/listViews/All_Courses.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 403,
+            "modifiedTime": 1582490308668,
+            "changeTime": 1582490308668,
+            "contentHash": "75f31dcbb33f75c4dbcaa961546abc7444635a05",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Translation__c",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Translation__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1582490308669,
+            "changeTime": 1582490308669,
+            "contentHash": "f400adc9c62eab1def4b371ce52dc3be789c5041",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Translation__c/Translation__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Translation__c/Translation__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2519,
+            "modifiedTime": 1582490308669,
+            "changeTime": 1582490308669,
+            "contentHash": "491c81c492f9fce8749e107bec3c42e70ceb6814",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Translation__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Translation__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1582490308670,
+            "changeTime": 1582490308670,
+            "contentHash": "eaccad2990311249a9d536f352fce97cb0a23c8d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Translation__c/fields/Course__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Translation__c/fields/Course__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 689,
+            "modifiedTime": 1582490308670,
+            "changeTime": 1582490308670,
+            "contentHash": "b02a409a8bd69f0a220c2da81b7c19c87734c73c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Translation__c/fields/Description__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Translation__c/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 442,
+            "modifiedTime": 1582490308670,
+            "changeTime": 1582490308670,
+            "contentHash": "f86a747c782a98d12d174bd9d515934e75c53e93",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Translation__c/fields/Language_Code__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/objects/Translation__c/fields/Language_Code__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6383,
+            "modifiedTime": 1582490308671,
+            "changeTime": 1582490308671,
+            "contentHash": "92b00aa59f0b96de4ec5aad66382a5458b7c3a9d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1582490308671,
+            "changeTime": 1582490308671,
+            "contentHash": "c34f6f6caf55727c42c1ac656c69672b41bef0d6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/permissionsets/Courses.permissionset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/permissionsets/Courses.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2110,
+            "modifiedTime": 1582490308671,
+            "changeTime": 1582490308671,
+            "contentHash": "05fa881a25a25bd8e3bf510e00b15eb2215a1bf7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/profiles",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1582490308672,
+            "changeTime": 1582490308672,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 296,
+            "modifiedTime": 1582490308672,
+            "changeTime": 1582490308672,
+            "contentHash": "ed58df81f94ef5cafc6634a170e23ddebc43c03d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/tabs",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1582490308673,
+            "changeTime": 1582490308673,
+            "contentHash": "9200fd3a897a36873a7d968fe0a0d253d0da4c8d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/tabs/Course__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop/force-app/main/default/tabs/Course__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1582490308673,
+            "changeTime": 1582490308673,
+            "contentHash": "3cefb7550d974d736f92db4ec0062d7a65825abf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mburnside/MBDEV/MBSFDXDEV/WORKSHOPS/mb-flow-workshop",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 512,
+            "modifiedTime": 1582490854649,
+            "changeTime": 1582490854649,
+            "contentHash": "8a48c1bdfc2fe41df7225b22dc739c977c969cc3",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
